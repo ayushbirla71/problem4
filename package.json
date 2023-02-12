@@ -1,0 +1,25 @@
+{
+  "name": "problem4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushbirla71/problem4.git"
+  },
+  "author": "ayush birla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushbirla71/problem4/issues"
+  },
+  "homepage": "https://github.com/ayushbirla71/problem4#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-cron": "^3.0.2",
+    "node-schedule": "^2.1.1"
+  }
+}
